@@ -5,7 +5,7 @@
  Description: Do comments the LH way
  Author: Peter Shaw
  Author URI: http://shawfactor.com
- Version: 1.0.0-dev
+ Version: 1.1
  License: GPL v3 (http://www.gnu.org/licenses/gpl.html)
 */
 
